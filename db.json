@@ -1,5 +1,7 @@
 {
-  "cart_info": "abcd",
+  "post code": "33162",
+  "country": "United States",
+  "country abbreviation": "US",
   "cart_information": [
     {
       "product_id": "16769241",
