@@ -1,6 +1,6 @@
 {
-  "cart_info":[
-    "cart_information": [
+  "cart_info": "abcd",
+  "cart_information": [
     {
       "product_id": "16769241",
       "Product_name": "Shirt",
@@ -21,6 +21,5 @@
         "Discount_price": "488"
       }
     }
-  ]
   ]
 }
