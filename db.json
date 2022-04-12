@@ -1,8 +1,5 @@
 {
-  "post code": "33162",
-  "country": "United States",
-  "country abbreviation": "US",
-  "cart_information": [
+  "cart_info": [
     {
       "product_id": "16769241",
       "Product_name": "Shirt",
